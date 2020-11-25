@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Portafolio NLP
 
-You can use the [editor on GitHub](https://github.com/leonardorubiosalcedo/Proyectos_NLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este portafolio se presentan varios proyectos de análisis de textos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Indice:
 
-### Markdown
+[1- Lectura de archivos](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%202_PLN_Leonardo_Rubio_Salcedo.ipynb): Leectura de textos en archivos de diferentes formatos. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[2- Pre-Procesamiento de Textos](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%203%20-%20Pre-Procesamiento%20de%20Textos_%20Leonardo%20Rubio.ipynb) : Limpieza de datos, frecuencias y conteo de palabras.
 
-```markdown
-Syntax highlighted code block
+[3- Feature Engineering](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%204%20-Leonardo%20Rubio%20(2).ipynb): Vectorizacion de palabras, creacion de corpus de textos, distancias entre terminos.
 
-# Header 1
-## Header 2
-### Header 3
+[4- TF y DF](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%205%20-%20TFIDF%20(1).ipynb): Distancias entre palabras, comparacion y similitudes.
 
-- Bulleted
-- List
+[5- Embedding](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller_6_Leonardo%20y%20Angela.ipynb): Prediccion de palabras a partir de un contexto y de una volsa de palabras a partir de un texto.
 
-1. Numbered
-2. List
+[6- Clasificacion Kmeans](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%207%20-%20ClassificationKMeans%20(1).ipynb): Algoritmos de vecinos cercanos, clasificacion de textos.
 
-**Bold** and _Italic_ and `Code` text
+[7- Modelado de Temas](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%208%20-%20Modelado%20de%20Temas%20(2).ipynb): Modelado por LDA e incontrar temas en comun y similares.
 
-[Link](url) and ![Image](src)
-```
+[8 -Graficas](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%209.ipynb): Nube de palabras y otras graficas.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[9 -Analisis de Twitter](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%2010%20-%20Twitter%20(1).ipynb): Analalisis emoticones, conteo de palabas, graficos y frecuencias.
 
-### Jekyll Themes
+[10 -Analisis de sentimientos](https://github.com/leonardorubiosalcedo/Proyectos_NLP/blob/master/Taller%2011%20-%20Sentimiento%20(1).ipynb): Analisis y agrupacion de sentimientos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leonardorubiosalcedo/Proyectos_NLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Image](https://memegenerator.net/img/instances/57340912.jpg) 
